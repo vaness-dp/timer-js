@@ -17,6 +17,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #17161d;
     color: #c9c9c9;
+    overflow: hidden;
 }
 
 .wrapper {
@@ -54,8 +55,8 @@ button {
 
 .logo-wrapper {
     position: relative;
-    left: 89%;
-    bottom: 30vh;
+    left: 85%;
+    bottom: 35vh;
 }
 
 img {

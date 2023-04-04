@@ -52,14 +52,3 @@ button {
     color: #fefbfb;
     cursor: pointer;
 }
-
-.logo-wrapper {
-    position: relative;
-    left: 85%;
-    bottom: 35vh;
-}
-
-img {
-    width: 200px;
-    height: 283px;
-}

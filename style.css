@@ -11,22 +11,15 @@ html {
 }
 
 body {
-    margin: 0 auto;
-    padding: 0 15px;
-    min-width: 1200px;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #17161d;
-    color: #c9c9c9;
-    overflow: hidden;
-}
-
-.wrapper {
-    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #17161d;
+    color: #c9c9c9;
+    overflow: hidden;
 }
 
 label {
